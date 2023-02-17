@@ -1,5 +1,6 @@
 menu
-articulo
+historia
 fotos
 comentarios
+contacto
 pie de pagina
