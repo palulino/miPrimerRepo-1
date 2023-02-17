@@ -1,4 +1,5 @@
 menu
 articulo
 fotos
+comentarios
 pie de pagina
