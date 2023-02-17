@@ -4,4 +4,4 @@ fotos
 comentarios
 contacto
 pie de pagina
-queda pendiente crear el inicio se sesion por roles
+Ya se trabajo el inicio se sesion por roles
